@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgba(172, 255, 47, 0.418);
+}
+
+main{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    font-size: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.637);
+}
+
+.p{
+    margin-left: 15px;
+    padding-top: 15px;
+}
+
+.botao{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+h3{
+    margin-left: 10px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
